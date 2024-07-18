@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+dist/video/lv_0_20240719043435.mp4 filter=lfs diff=lfs merge=lfs -text

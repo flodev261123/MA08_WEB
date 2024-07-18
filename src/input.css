@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media (max-width: 768px) { /* Atur saat lebar layar kurang dari atau sama dengan 768px */
+    .form-container {
+      margin-left: auto; /* Menggeser formulir ke kanan */
+      margin-right: auto; /* Menggeser formulir ke kiri */
+      max-width: 80%; /* Membatasi lebar maksimum formulir */
+    }
+  }
+  
+  
